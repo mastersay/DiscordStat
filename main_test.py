@@ -36,4 +36,4 @@ async def _guess(ctx: SlashContext):
     await ctx.send(content=f"random: {random.randint(1, 2)}")
 
 
-client.run("Nzk2ODc0NzYyNzM4NDY2ODQ2.X_eRdA.B9lmLLUCRh1pB2V_RUopsLgPt6Q")
+client.run("")
