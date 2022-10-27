@@ -1,0 +1,42 @@
+{
+  "Expressions counter": {
+    ";name;": {
+      "Expressions to count": [],
+      "Value": 0
+    }
+  },
+  "Chat activity": {
+    ";datetime;": {
+      ";user;": {
+        ";channel name;": {
+          "Channel ID": ";channel ID;",
+          "messages": 0
+        }
+      }
+    }
+  },
+  "Voice activity": {
+    ";datetime;": {
+      ";user;": {
+        ";channel name;": {
+          "Channel ID": ";channel ID;",
+          "minutes": 0
+        }
+      }
+    }
+  },
+  "Guild activity": {
+    "Channel": {
+      ";Channel name;": {
+        "Channel ID": ";channel ID;",
+        "Channel type": ";type;",
+        "Value": 0
+      },
+      "Total": {
+        "Messages": 0,
+        "Room time call": 0,
+        "Room time activity": 0
+      }
+    }
+  }
+}
